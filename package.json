@@ -96,7 +96,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.6",
-    "bootstrap": "^4.6.1",
+    "bootstrap": "^5.3.3",
     "dropbox": "^10.34.0",
     "jquery": "^3.6.4"
   }
